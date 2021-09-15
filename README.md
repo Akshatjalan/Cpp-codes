@@ -5,7 +5,17 @@
  </h3>
 <p align="center">
     LeetCode problems in CPP and Java programming language
- </p>
+</p>
+<br>
+
+<p align="center">
+  	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-199900?style=for-the-badge&logo=java&logoColor=white" alt="java" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Github" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="node" />&nbsp;&nbsp;
+</p>
+<br>
+
 
 <p align="center">
   <img src="https://github.com/Akshatjalan/akshat/blob/master/assets/img/code.gif">
